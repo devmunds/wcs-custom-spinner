@@ -1,2 +1,3 @@
-# wcs-woo-custom-spinner
-Woo Custom Spinner
+# Woo Custom Spinner
+
+Custom spinner for woocommerce.
