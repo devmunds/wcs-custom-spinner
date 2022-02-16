@@ -1,6 +1,6 @@
 <?php
 /**
- * Plugin Name:			Woo Custom Spinner
+ * Plugin Name:			WCS Custom Spinner
  * Description:			Custom spinner for woocommerce.
  * Version:				1.0.12
  * Author:				Devmunds
