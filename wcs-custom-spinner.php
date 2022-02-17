@@ -2,7 +2,7 @@
 /**
  * Plugin Name:			WCS Custom Spinner
  * Description:			Custom spinner for woocommerce.
- * Version:				1.0.12
+ * Version:				1.0.16
  * Author:				Devmunds
  * Author URI:			https://www.devmunds.com.br/
  * Requires at least:	5.0
